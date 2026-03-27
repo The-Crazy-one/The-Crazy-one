@@ -1,6 +1,6 @@
-*🧠 THE-CRAZY-ONE | Tech & Concept Designer*
+# 🧠 THE-CRAZY-ONE | Tech & Concept Designer
 
-*"Ich sehe keine Objekte. Ich sehe Kontexte. Ich analysiere Konstrukte."*
+***"Ich sehe keine Objekte. Ich sehe Kontexte. Ich analysiere Konstrukte."***
 
 Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein *Belohnungszentrum* durch komplexes Denken befeuert wird. Als hochkreativer *Denk-Junky* ist **Problemlösung** meine Droge – und ich brauche eine neue Dosis.
 
