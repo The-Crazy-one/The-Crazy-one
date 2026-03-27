@@ -9,6 +9,8 @@ Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein 
 
 *Ich dekonstruiere Probleme, die andere für unlösbar halten, und gestalte Konzepte, die über den Tellerrand hinausgehen. Mein Ansatz ist radikal analytisch und konsequent Open Source.*
 
+**Beispiel:** *[Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)*
+
 🎯 **Was ich suche**
 
 *Ich bin auf der Suche nach den **"unmöglichen"** Problemen. Wenn dein Projekt feststeckt, weil der Kontext nicht verstanden wird: **Hier bin ich**.*
