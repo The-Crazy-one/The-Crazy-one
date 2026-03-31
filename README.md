@@ -14,13 +14,13 @@ Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein 
   
 **Beispiel:**  
 
-*[Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)*  
- - *[Supporting_Center]([../](https://github.com/The-Crazy-one/)Supporting_Center)*  
- - *[Wohntrolley](https://github.com/The-Crazy-one/Wohntrolley)*  
+*[Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)*  -  Ein Open-Source-Ökosystem für modulare Räume und mobile Würde.    
+ - *[Supporting_Center](https://github.com/The-Crazy-one/Supporting_Center)*  -  Modulare, faltbare Raumsysteme
+ - *[Wohntrolley](https://github.com/The-Crazy-one/Wohntrolley)*  -  Mobiler Lebensraum & Urbane Würde  
 
-*[ai4all](https://github.com/The-Crazy-one/Wohntrolley)*  
-
- - *[SKP-Framework-Strukturiertes-Kontext-Prompting](https://github.com/The-Crazy-one/SKP-Framework-Strukturiertes-Kontext-Prompting)*  
+*[ai4all](https://github.com/The-Crazy-one/ai4all)*  -  
+ - *[SKP-Framework-Strukturiertes-Kontext-Prompting](https://github.com/The-Crazy-one/SKP-Framework-Strukturiertes-Kontext-Prompting)*  -  Kontext Prompting für Jederman - Laie, Erfahren, Pro  
+ - *[Object-Oriented-AI-Agent](https://github.com/The-Crazy-one/Object-Oriented-AI-Agent)*  -  Dein intelligenter KI-Agent in der Browser Suche
   
 ---
   
