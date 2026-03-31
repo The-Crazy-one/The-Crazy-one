@@ -53,8 +53,8 @@ Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein 
 **Lizenz:** [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.  
 
 
- 
-[Back to The-Crazy-one](https://github.com/The-Crazy-one/The-Crazy-one)  
+ ---
+[Back to The-Crazy-one](https://github.com/The-Crazy-one)  
 
 
   
