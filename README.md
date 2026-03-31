@@ -9,7 +9,13 @@ Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein 
 
 *Ich dekonstruiere Probleme, die andere für unlösbar halten, und gestalte Konzepte, die über den Tellerrand hinausgehen. Mein Ansatz ist radikal analytisch und konsequent Open Source.*
 
-**Beispiel:** *[Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)*
+**Beispiel:**  
+
+*[Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)*  
+ - *[Supporting_Center](/Supporting_Center)*  
+ - *[Wohntrolley](https://github.com/The-Crazy-one/Wohntrolley)*  
+
+---
 
 🎯 **Was ich suche**
 
