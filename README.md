@@ -1,35 +1,60 @@
 # 🧠 THE-CRAZY-ONE | Tech & Concept Designer
 
-***"Ich sehe keine Objekte. Ich sehe Kontexte. Ich analysiere Konstrukte."***
+***"Ich sehe keine Objekte. Ich sehe Kontexte. Ich analysiere Konstrukte."***  
+  
+Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein *Belohnungszentrum* durch komplexes Denken befeuert wird. Als hochkreativer *Denk-Junky* ist **Problemlösung** meine Droge – und ich brauche eine neue Dosis.  
+  
+---
+  
+🛠 **Was ich tue**  
 
-Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein *Belohnungszentrum* durch komplexes Denken befeuert wird. Als hochkreativer *Denk-Junky* ist **Problemlösung** meine Droge – und ich brauche eine neue Dosis.
-
-
-🛠 **Was ich tue**
-
-*Ich dekonstruiere Probleme, die andere für unlösbar halten, und gestalte Konzepte, die über den Tellerrand hinausgehen. Mein Ansatz ist radikal analytisch und konsequent Open Source.*
-
+*Ich dekonstruiere Probleme, die andere für unlösbar halten, und gestalte Konzepte, die über den Tellerrand hinausgehen. Mein Ansatz ist radikal analytisch und konsequent Open Source.*  
+  
+--- 
+  
 **Beispiel:**  
 
 *[Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)*  
- - *[Supporting_Center](../Supporting_Center/README.md)*  
+ - *[Supporting_Center]([../](https://github.com/The-Crazy-one/)Supporting_Center)*  
  - *[Wohntrolley](https://github.com/The-Crazy-one/Wohntrolley)*  
 
+*[ai4all](https://github.com/The-Crazy-one/Wohntrolley)*  
+
+ - *[SKP-Framework-Strukturiertes-Kontext-Prompting](https://github.com/The-Crazy-one/SKP-Framework-Strukturiertes-Kontext-Prompting)*  
+  
 ---
+  
+🎯 **Was ich suche**  
 
-🎯 **Was ich suche**
+*Ich bin auf der Suche nach den **"unmöglichen"** Problemen. Wenn dein Projekt feststeckt, weil der Kontext nicht verstanden wird: **Hier bin ich**.*  
 
-*Ich bin auf der Suche nach den **"unmöglichen"** Problemen. Wenn dein Projekt feststeckt, weil der Kontext nicht verstanden wird: **Hier bin ich**.*
+**Zusätzlich suche ich ab sofort:**  
 
-**Zusätzlich suche ich ab sofort:**
+*Einen ***persönlichen Assistenten*** (PA) oder*  
 
-*Einen ***persönlichen Assistenten*** (PA) oder*
+*Eine ***Agentur****  
 
-*Eine ***Agentur****
+*... um den *organisatorischen Overhead* meiner Denkprozesse zu kanalisieren. **Es gibt viel zu tun**, denn ich habe viel gedacht.*  
 
-*... um den *organisatorischen Overhead* meiner Denkprozesse zu kanalisieren. **Es gibt viel zu tun**, denn ich habe viel gedacht.*
-
+-- 
 
 ***⚡ Kontakt***
 
 **Bringt mir eure komplexesten Problemen. Wenn es mich triggert, lösen wir es gemeinsam.**
+  
+--- 
+  
+**📜 Philosophie & Lizenz**  
+
+**Alle Projekte hier folgen dem Geist der Open Source Hardware.**  
+  
+**Keine Patente:** Die Pläne sind frei für alle.  
+**Lokale Produktion:** Ziel ist es, dass Hilfe weltweit lokal gefertigt werden kann.   
+**Lizenz:** [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.  
+
+
+ 
+[Back to The-Crazy-one](https://github.com/The-Crazy-one/The-Crazy-one)  
+
+
+  
