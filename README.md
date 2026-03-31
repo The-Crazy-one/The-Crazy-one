@@ -12,7 +12,7 @@ Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein 
 **Beispiel:**  
 
 *[Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)*  
- - *[Supporting_Center](/Supporting_Center)*  
+ - *[Supporting_Center](../Supporting_Center/README.md)*  
  - *[Wohntrolley](https://github.com/The-Crazy-one/Wohntrolley)*  
 
 ---
