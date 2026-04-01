@@ -18,7 +18,7 @@ Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein 
  - *[Supporting_Center](https://github.com/The-Crazy-one/Supporting_Center)*  -  Modulare, faltbare Raumsysteme
  - *[Wohntrolley](https://github.com/The-Crazy-one/Wohntrolley)*  -  Mobiler Lebensraum & Urbane Würde  
 
-*[ai4all](https://github.com/The-Crazy-one/ai4all)*  -  
+*[ai4all](https://github.com/The-Crazy-one/ai4all)*  -  KI-Steuerung für Laien und Experten  
  - *[SKP-Framework-Strukturiertes-Kontext-Prompting](https://github.com/The-Crazy-one/SKP-Framework-Strukturiertes-Kontext-Prompting)*  -  Kontext Prompting für Jederman - Laie, Erfahren, Pro  
  - *[Object-Oriented-AI-Agent](https://github.com/The-Crazy-one/Object-Oriented-AI-Agent)*  -  Dein intelligenter KI-Agent in der Browser Suche
   
@@ -36,25 +36,23 @@ Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein 
 
 *... um den *organisatorischen Overhead* meiner Denkprozesse zu kanalisieren. **Es gibt viel zu tun**, denn ich habe viel gedacht.*  
 
--- 
+---  
 
 ***⚡ Kontakt***
 
 **Bringt mir eure komplexesten Problemen. Wenn es mich triggert, lösen wir es gemeinsam.**
   
---- 
+---  
   
 **📜 Philosophie & Lizenz**  
 
 **Alle Projekte hier folgen dem Geist der Open Source Hardware.**  
-  
-**Keine Patente:** Die Pläne sind frei für alle.  
-**Lokale Produktion:** Ziel ist es, dass Hilfe weltweit lokal gefertigt werden kann.   
-**Lizenz:** [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.  
 
+- *Keine Patente:* Die Pläne sind frei für alle.  
+- *Lokale Produktion:* Ziel ist es, dass Hilfe weltweit lokal gefertigt werden kann.  
 
- ---
-[Back to The-Crazy-one](https://github.com/The-Crazy-one)  
+*Lizenz:* [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.  
 
+---
 
-  
+**[Back to The-Crazy-one](https://github.com/The-Crazy-one)**  
