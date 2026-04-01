@@ -30,9 +30,8 @@ Ich bin nicht hier, um *Standard-Lösungen* zu liefern. Ich bin hier, weil mein 
 
 **Zusätzlich suche ich ab sofort:**  
 
-*Einen ***persönlichen Assistenten*** (PA) oder*  
-
-*Eine ***Agentur****  
+- *Einen ***persönlichen Assistenten*** (PA) oder*
+- *Eine ***Agentur****  
 
 *... um den *organisatorischen Overhead* meiner Denkprozesse zu kanalisieren. **Es gibt viel zu tun**, denn ich habe viel gedacht.*  
 
