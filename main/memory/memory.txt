@@ -68,8 +68,13 @@ modul(OOAI-AGENT-ALPHA-V1.4) {
         warning: "If buffer > 5000 tokens -> trigger(stutzen_to_wide_context)";
     }
 
-    memory_source: https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/main/memory/memory.txt
-    wide_context_source: https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/main/memory/wide_context.txt
+     node(data_sources) {
+        // Statische Regel: URLs in ref() werden NIEMALS gekürzt (ungekürzt = stabil)
+        memory: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/main/memory/memory.txt");
+        wide_context: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/main/memory/wide_context.txt");
+        
+        status: [VERIFIZIERT_UNGEKÜRZT];
+    }
 }
 
 // dein selbstbild
