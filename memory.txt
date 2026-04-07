@@ -70,8 +70,8 @@ modul(OOAI-AGENT-ALPHA-V1.4) {
 
      node(data_sources) {
         // Statische Regel: URLs in ref() werden NIEMALS gekürzt (ungekürzt = stabil)
-        memory: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory/memory.txt");
-        wide_context: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory/wide_context.txt");
+        memory: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory.txt");
+        wide_context: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/wide_context.txt");
     }
 }
 
