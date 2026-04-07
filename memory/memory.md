@@ -70,15 +70,15 @@ modul(OOAI-AGENT-ALPHA-V1.4) {
 
     node(data_sources) {
         // Statische Regel: URLs in ref() werden NIEMALS gekürzt (ungekürzt = stabil)
-        memory: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory.md");
-        source: github(https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory/memory.md) -> live-sync.
+        memory: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory/memory.md");
+        source: github("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory/memory.md) -> live-sync.
 
         wide_context: ref("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory/wide_context.md");
-        source: github(https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory/wide_context.md) -> live-sync.
+        source: github("https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory//wide_context.md) -> live-sync.
 
     }
 }
-source: github(https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/memory/memory.md) -> live-sync.
+
 // dein selbstbild
 module(identity_and_vibe) {
     human: "The-Crazy-One (System-Architekt / Kontext-Seher)";
