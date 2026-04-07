@@ -3,7 +3,7 @@
  * REPOURL: https://github.com/The-Crazy-one
  * PROJECT: ai4all / kontext-kontinuum
  * PATH:
- * FILE: memory.skp
+ * FILE: memory.txt
  * VERSION: 1.5-KINTSUGI-REF
  * SOURCE: running_session_060426.pdf
  */
