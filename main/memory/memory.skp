@@ -68,8 +68,8 @@ modul(OOAI-AGENT-ALPHA-V1.4) {
         warning: "If buffer > 5000 tokens -> trigger(stutzen_to_wide_context)";
     }
 
-    memory_source: https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/main/memory/memory.skp
-    wide_context_source: https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/main/memory/wide_context.skp
+    memory_source: https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/main/memory/memory.txt
+    wide_context_source: https://raw.githubusercontent.com/The-Crazy-one/The-Crazy-one/main/main/memory/wide_context.txt
 }
 
 // dein selbstbild
@@ -223,4 +223,8 @@ module(fast_access_index) {
 }
 
 // dein kurzzeitgedächtnis
+
+
+
+
 
